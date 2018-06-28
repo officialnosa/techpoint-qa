@@ -1,0 +1,8 @@
+{
+  "name": "max-questions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rachael Orukele",
+  "license": "MIT",
+  "private": true
+}
